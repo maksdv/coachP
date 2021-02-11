@@ -1,0 +1,32 @@
+.label{
+    color: #e44b68;
+    font-size: 1.14286em;
+    display: inline-block;
+    margin-top: .3125em;
+    padding: 0 .9375em;
+}
+
+.formField{
+    color: #22d099;
+    background: #fff;
+    font-size: 1.85714em;
+    padding: .23077em .57692em;
+    width: 100%;
+    -webkit-box-shadow: 0 0.07692em 0.38462em rgba(0,0,0,.2);
+    box-shadow: 0 0.07692em 0.38462em rgba(0,0,0,.2);
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: none;
+}
+
+.formField:focus{
+    outline: 0;
+}
+
+.option {
+    font-family: Inbonis-Light;
+    max-height: 100px;
+}
+
+
